@@ -40,4 +40,4 @@
 </p>
 
 
-<img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3c5&layout=compact&theme=midnight-purple&langs_count=6"/>
+<img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3c5&layout=compact&theme=midnight-purple&langs_count=10"/>
