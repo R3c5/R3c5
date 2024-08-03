@@ -3,11 +3,16 @@
 
 <h3 align="left"> ✨ Something about me</h3>
 
-- 🎓 I'm studying **Computer Science and Engineering** at **TUDelft**
+- 🎓 I have just graduated **Computer Science and Engineering** at **TUDelft**
 
 - 🌱 I’m currently learning about **myself**
 
-- 🔭 I’m currently working on my final thesis about **The Haskell Software Lifecycle**.
+- 🔭 Currently looking for a job in Software Engineering
+
+
+
+<h3 align="left"> 📝 What about Haskell bugs? Adapting existing bug taxonomies to Haskell’s features and community </h3> 
+If you are interested in Haskell, bugs, and/or taxonomies check out my thesis here: http://resolver.tudelft.nl/uuid:655e598b-9d5c-4e49-abf2-12516d95a9cb
 
 
 <h3 align="left"> 📬 Find me at:</h3>
